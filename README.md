@@ -72,7 +72,7 @@ This two brothers when be Name and Longname column , I come separate the players
 
 Wahala never finish o , if you click the filter button , e get some kind names with wicked pronunciation when them nor get English letter for, all these kind names like Spanish names de normally carry tribal marks for head ( when oyibo de call Diacritic names ).
 
-And if we nor package them , when person one visualise the data now, you come say if your name start from A stand up, dem go sitdown , if your name start from B stand up , them go still sitdown oo till you reach Z sef .Na after Z them go come start to de stand up small small and this thing nor good for visualisation . 
+And if we nor package them , when person one visualise the data now, you come say if your name start from A stand up, dem go sitdown , if your name start from B stand up , them go still sitdown oo, till you reach Z sef .Na after Z, them go come start to de stand up small small and this thing nor good for visualisation. 
 So I come use another column “player url “ take extract the clean version of the names without this tribal marks to take package am well.
 
 | Before | After |

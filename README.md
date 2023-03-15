@@ -82,6 +82,7 @@ So I come use another column “player url “ take extract the clean version of
 E never still finish ontop this names matter o, Wahala nor come too much like this ?
 some Names them wen carry dot, like C.Ronaldo , A.Benjamin , G.Paiva , I still package dem well make the complete name de show .
 
+
 <div align="center">
     <h2>Percentages</h2>
 </div>

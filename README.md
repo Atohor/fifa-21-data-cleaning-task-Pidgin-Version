@@ -167,6 +167,50 @@ E choke ? . Me personally I decide say na lbs I want make everything de cause n
 </div>
 
 
-This 3 columns dey in euros and na swagger them take write the values. For example 1,500 na like this €1.5k and 1,500,000 na €1.5m. This kind thing kind sexy swagger nor go fit work for analysis . So we first drop the € symbol with find and replace . Next we gats split the column by M and K , then create new custom column when go multiply K values with 1000 and M values with 1,000,000 . This formula go give us the full figure for this wage , value and release clause column .
+This 3 columns dey in euros and na swagger them take write the values. For example 1,500 na like this €1.5k and 1,500,000 na €1.5m. This kind sexy swagger nor go fit work for analysis . So we first drop the € symbol with find and replace . Next we gats split the column by M and K , then create new custom column when go multiply K values with 1000 and M values with 1,000,000 . This formula go give us the full figure for this wage , value and release clause column .
 
-But wait o ! story never finish , we still like convert this full form figures from € to $ So we gats times this figures by 1.183 . This na be the average € to $ conversion rate for around 2021 when them take create this data .
+But wait o ! story never finish , we still like convert this full form figures from €uro to dollar$ So we gats times this figures by 1.183 . This na be the average €uro to dollar$ conversion rate for around 2021 when them take create this data.
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224848874-1db3b234-8f91-4a58-8aa8-62e4db072d38.png)|![image](https://user-images.githubusercontent.com/99989624/224849112-0e74cdb0-ceb6-4a38-bc4d-4efc3f9ccf43.png)
+
+<div align="center">
+    <h2>W/F , SM , IR</h2>
+</div>
+
+ These three columns contain player ratings for different aspect , and na scale of 1-5 them use rank am . But them add star symbol to the coding.
+ Wow! make I call these columns star boys cause E choke !.
+ 
+ But we nor really need the stars cause e go scatter our visualisation. So Na to remove the stars using find and replace na sure pass, then change the data type from ABC to 123.
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224855858-546c4bdf-adb2-421a-a459-f799a7f1a241.png)|![image](https://user-images.githubusercontent.com/99989624/224855981-166a7132-bbb1-4451-89e5-62f9b43d66dd.png)
+
+<div align="center">
+    <h2>Hits</h2>
+</div>
+
+For the filter mode , you go see say some numbers for here na still swagger dem take write dem , 1500 na like this 1.5k. So I gats package am the way I take run the wages column when I don explain before so . 
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224856470-037630d2-1429-4644-b107-d5b88323fa32.png)|![image](https://user-images.githubusercontent.com/99989624/224856581-0ff90894-e6da-4edc-b25a-850a3b59e966.png)
+
+
+<div align="center">
+    <h2>CONCLUSION</h2>
+</div>
+
+Day don dark ontop this cleaning matter but las las we don run am, we come still use eagle eye observe say our data accurate , e complete , and e consistent . Na oyibo de call data validation .
+
+At first when I use corner eye look this challenge , e be like say water go pass garri o , but I draw my trouser up , gather mind , use ginger complete this #Datacleaningchallenge . Even though I don go far small for this data industry , this challenge don still open my eye well well ,to some kind things when every analyst need to learn. 
+
+Them never born the person when fit claim say e know everything for this data industry , so like this if you get one or two when fit help my career , or you use okpolor eye take see some things when my eagle eye nor see , abeg let me know . 
+If you still de run kititi, de run katata like chicken when dem cut e head ontop this challenge , nor run again , come meet me, I go help you make we package am together .
+
+Any day , any time , You fit holla @ your boy for twitter [@PidginAnalyst](https://twitter.com/Pidginanalyst) | Instagram  [@PidginAnalyst](https://Instagram.com/Pidginanalyst) 
+
+
+#PS to speak or listen to pidgin English easy , to write am out hard small , but to come even fit read am well, understand-am well , That one na War oo . So if you really settle down read this thing from beginning to this ending , I carry hand give you ! NA YOU TRY PASS! i hail ooo !!!  

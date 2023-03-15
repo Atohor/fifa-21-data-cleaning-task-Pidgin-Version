@@ -139,7 +139,7 @@ If you look well the data type for my contract start and end date nor be date na
     <h2>Height</h2>
 </div>
 
-Many players for here dem record their heights in centimetre (cm) , then some others na feet and inches them use . Like this 6’2” . At first, i reason say na to separate this thing ‘ “ comot then times the figure by 30.48 because that na be normal feet to cm conversion rate . But chairman google say e nor correct like that , seniorMan google say the inches I need to times am separate with inches rate . 
+Many players for here dem record their heights in centimetre (cm) , then some others na feet and inches them use . Like this 6’2” . At first, i reason say na to separate this thing ‘ “ comot then times the figure by 30.48 because that na be normal feet to cm conversion rate . But SeniorMan google say e nor correct like that , seniorMan google say the inches I need to times am separate with inches rate . 
 
 Who I be to follow SeniorMan google argue ? So after I split the columns I times the feet by 30.48 , I come times the inches by 2.54. Las las,  I come add everything together for one column. 
 The other guys when de in centimetre carry “cm “ join body like this 170cm So I come still drop the cm comot .Package everything well 
@@ -152,3 +152,21 @@ The other guys when de in centimetre carry “cm “ join body like this 170cm 
 <div align="center">
     <h2>Weight</h2>
 </div>
+
+My eagle eye tell me say like 60% of the players here them write their weight as lbs (this na another name for pounds but nor be the money £ pounds o, this na when some oyibo countries one talk about weight in pounds dem go write as lbs ) like this 70lbs . While the rest na Kilogram them take code am like this 60kg.
+
+E choke ? . Me personally I decide say na lbs I want make everything de cause na them many pass . So I come split the column with "digit to non -digit function". then i use the normal conversion rate of 2.205 take times the kg guys to give me the lbs version, then round am up make the figures nor carry decimals.
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224845690-2cb91c6f-bcf9-478f-b1d7-0dc5cc0e8b76.png)|![image](https://user-images.githubusercontent.com/99989624/224846437-d180ffa8-277e-400c-aa69-a2051aed01f5.png)
+
+
+<div align="center">
+    <h2>Value , Wage and release clause</h2>
+</div>
+
+
+This 3 columns dey in euros and na swagger them take write the values. For example 1,500 na like this €1.5k and 1,500,000 na €1.5m. This kind thing kind sexy swagger nor go fit work for analysis . So we first drop the € symbol with find and replace . Next we gats split the column by M and K , then create new custom column when go multiply K values with 1000 and M values with 1,000,000 . This formula go give us the full figure for this wage , value and release clause column .
+
+But wait o ! story never finish , we still like convert this full form figures from € to $ So we gats times this figures by 1.183 . This na be the average € to $ conversion rate for around 2021 when them take create this data .

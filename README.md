@@ -43,7 +43,7 @@ After I load the data , the space too much for inside so to remove the spaces ,n
 this one mean say I use eagle eye take observe my data, make i for see all the dirty things when I need scrub well for my data. I see many columns when my broom of justice go touch ; name , longname , Age , OVA , POT , Club , contract , Positions , height , weight , Best position , Joined , Loan end date , value , wage , release clause , W/F , SM , IR , And hits .
 
 **2. Data enrichment** : 
-this one mean say any column when too lean because e dey lack nutrient, we need give am vitamin boost make e for dey alright . I come reason and say the Age column still dey show their age for 2021 and we don enter 2023 . Na once I Nack +2 for all their age.
+this one mean say any column when too lean because e dey lack nutrient, we need give am vitamin boost make e for dey alright . I come reason am say the Age column still dey show their age for 2021 and we don enter 2023 . Na once I Nack +2 for all their age.
 But I nor delete the first age column , I still leave am say person fit choose which one e go use wether na the 2021 age or na this new 2023 age when I just package .
 
 <div align="center">

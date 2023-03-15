@@ -90,7 +90,7 @@ some Names them wen carry dot, like C.Ronaldo , A.Benjamin , G.Paiva , I still p
 </div>
 
 When I read the data dictionary, them talk say these columns OVA and POT suppose be percentages . So I just use one sharp button when be “column from examples “. 
-I use am add % for the first row number , this sharp button too know book so e just help me complete the rest , then na to just the data type to percentage.
+I use am add % for the first row number , this sharp button too know book so e just help me complete the rest .Then na to just the data type to percentage.
 
 | Before | After |
 |--------|-------|

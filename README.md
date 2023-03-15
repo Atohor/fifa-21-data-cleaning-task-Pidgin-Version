@@ -24,3 +24,20 @@ Many tools dey when person fit take tackle data cleaning .For me personally, Bas
 ## Data Cleaning process
 ![image](https://user-images.githubusercontent.com/99989624/225212198-d3deb93a-14d6-4a70-936f-76c674bf8645.png)
 
+To make sure say my data na ogbonge quality , see how i take run am pass 
+
+
+After I load the data , the space too much for inside so to remove the spaces ,na just one button I click for the view tab . Dem call the button “show white spaces “ . I say no nor show am , cause the spaces them too many, e almost reach one plot of land.
+
+
+<div align="center">
+    <h2>Whitespaces</h2>
+</div>
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224610838-f6b78c4b-b204-42d9-b158-f7aeacb6cda8.png)| ![image](https://user-images.githubusercontent.com/99989624/224610689-763b528d-9eed-431a-8b7d-2d5a54abaa32.png)
+
+
+**1. Data Auditing**
+this one mean say I use eagle eye take observe my data, make i for see all the dirty things when I need scrub well for my data. I see many columns when my broom of justice go touch ; name , longname , Age , OVA , POT , Club , contract , Positions , height , weight , Best position , Joined , Loan end date , value , wage , release clause , W/F , SM , IR , And hits .

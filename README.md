@@ -79,7 +79,18 @@ So I come use another column “player url “ take extract the clean version of
 |--------|-------|
 ![image](https://user-images.githubusercontent.com/99989624/224684006-6287fa7c-6d31-408c-99bd-95125ad152d5.png)|![image](https://user-images.githubusercontent.com/99989624/224684358-ea94ad53-b786-43db-8d29-38e647689471.png)
 
+E never still finish ontop this names matter o, Wahala nor come too much like this ?
+some Names them wen carry dot, like C.Ronaldo , A.Benjamin , G.Paiva , I still package dem well make the complete name de show .
 
+<div align="center">
+    <h2>Percentages</h2>
+</div>
 
+When I read the data dictionary, them talk say these columns OVA and POT suppose be percentages . So I just use one sharp button when be “column from examples “. 
+I use am add % for the first row number , this sharp button too know book so e just help me complete the rest , then na to just the data type to percentage.
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224689449-f6a490f1-e016-4058-9373-71487095283d.png)|![image](https://user-images.githubusercontent.com/99989624/224689726-1884d63f-e22e-4b70-8a67-3dbead6aa4ed.png)
 
 

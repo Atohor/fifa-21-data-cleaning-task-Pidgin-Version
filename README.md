@@ -95,3 +95,60 @@ I use am add % for the first row number , this sharp button too know book so e j
 ![image](https://user-images.githubusercontent.com/99989624/224689449-f6a490f1-e016-4058-9373-71487095283d.png)|![image](https://user-images.githubusercontent.com/99989624/224689726-1884d63f-e22e-4b70-8a67-3dbead6aa4ed.png)
 
 
+<div align="center">
+    <h2>Clubs</h2>
+</div>
+
+E get some kind club when their names start with 1. Example 1. Fc koln , 1. Fc union Berlin. Nor be say na mistake o , truly truly na the name when their papa give them be that. But we de normally comot the number if not, just like the names column dem if I call A-Z dem nor go gree stand up and e nor good for visualisation so I package them well
+
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224834902-356b3ed5-c7e0-489c-87d2-b3602bc91364.png)|![image](https://user-images.githubusercontent.com/99989624/224835627-e81bbc9a-7c95-41e9-a1e3-5be5cef1ac2c.png)
+
+
+<div align="center">
+    <h2>Contract</h2>
+</div>
+
+This column “contract “ scatter leg anyhow yafu-yafu, so I come call on e brothers “joined “ and “ loan end date “ make them help me run am well.
+
+When I click filter ontop the contract column , I see say some kind players when dey on loan , na the same details dem get for the “loan end date “ column . Then for players when be free , dem nor get loan end date , them nor get club , them nor get wage , dem nor get value , dem nor get release clause everything zero . So, I come replace all these free guys with null for my contract column and when I one visualise I gats drop them kpatakpata from the data cause dem useless for analysis 
+
+Sha after I don clean , separate, and do somekind join join I come end up with only 2 columns “contract start and contract end “ when go show the year the player contract take start and the year e end 
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224838470-25cd2741-d7bf-479b-8ff7-14d2917f498c.png)|![image](https://user-images.githubusercontent.com/99989624/224838770-df41bf1a-5391-4bdd-8a17-99c4a7da1cb5.png)
+
+If you look well the data type for my contract start and end date nor be date na ABC. This na because if I change am to date format , e go like show months and days and over sabi power query go dash all the rows first day and first month like this 1/1/2022 or 1/1/2020 even though nor be the right day or month be that, but na because of lack of more info . So when time for visualisation don reach , when person change the data type to date , na to use only the year drill down nor add day or month.
+
+
+<div align="center">
+    <h2>Positions</h2>
+</div>
+ 
+**Separate am or leave am :?** This column na for the wing when the players de normally play . Some sabi play like 2 to 3 wings and dem jam everything together for one row. I come reason am say to split am na waste of Memory space since another column when be e brother “best position “ still de . And that best position column make sense die to take use analyse our data , so like this na to delete the column “positions” . Make we leave only best position 
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224841755-aac24509-7c26-40e5-b46b-4cdc8ddca9e7.png)|![image](https://user-images.githubusercontent.com/99989624/224841978-f61c750b-4ae4-40fe-9af7-8f7208547b2b.png)
+
+
+<div align="center">
+    <h2>Height</h2>
+</div>
+
+Many players for here dem record their heights in centimetre (cm) , then some others na feet and inches them use . Like this 6’2” . At first, i reason say na to separate this thing ‘ “ comot then times the figure by 30.48 because that na be normal feet to cm conversion rate . But chairman google say e nor correct like that , seniorMan google say the inches I need to times am separate with inches rate . 
+
+Who I be to follow SeniorMan google argue ? So after I split the columns I times the feet by 30.48 , I come times the inches by 2.54. Las las,  I come add everything together for one column. 
+The other guys when de in centimetre carry “cm “ join body like this 170cm So I come still drop the cm comot .Package everything well 
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224844971-31f4648e-2b1f-42d8-99b7-84e1a376a428.png)| ![image](https://user-images.githubusercontent.com/99989624/224845368-72935580-ede4-44b1-94bd-d5db1d4866e8.png)
+
+
+<div align="center">
+    <h2>Weight</h2>
+</div>

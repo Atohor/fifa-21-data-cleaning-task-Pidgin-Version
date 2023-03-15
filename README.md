@@ -101,7 +101,7 @@ I use am add % for the first row number , this sharp button too know book so e j
     <h2>Clubs</h2>
 </div>
 
-E get some kind club when their names start with 1. Example 1. Fc koln , 1. Fc union Berlin. Nor be say na mistake o , truly truly na the name when their papa give them be that. But we de normally comot the number if not, just like the names column dem if I call A-Z dem nor go gree stand up and e nor good for visualisation so I package them well
+E get some kind club when their names start with 1. Example 1. Fc koln , 1. Fc union Berlin. Nor be say na mistake o , truly truly na the name when their papa give them be that. But we de normally comot the number if not, just like the names column if I call A-Z sef dem nor go gree stand up and e nor good for visualisation so I package them well.
 
 
 | Before | After |
@@ -115,7 +115,7 @@ E get some kind club when their names start with 1. Example 1. Fc koln , 1. Fc u
 
 This column “contract “ scatter leg anyhow yafu-yafu, so I come call on e brothers “joined “ and “ loan end date “ make them help me run am well.
 
-When I click filter ontop the contract column , I see say some kind players when dey on loan , na the same details dem get for the “loan end date “ column . Then for players when be free , dem nor get loan end date , them nor get club , them nor get wage , dem nor get value , dem nor get release clause everything zero . So, I come replace all these free guys with null for my contract column and when I one visualise I gats drop them kpatakpata from the data cause dem useless for analysis 
+When I click filter ontop the contract column , I see say some kind players when dey on loan , na the same details dem get for the “loan end date “ column . Then for players when be free , dem nor get loan end date , them nor get club , them nor get wage , dem nor get value , dem nor get release clause, everything zero . So, I come replace all these free guys with null for my contract column and when I one visualise I gats drop them kpatakpata from the data cause dem useless for analysis .
 
 Sha after I don clean , separate, and do somekind join join I come end up with only 2 columns “contract start and contract end “ when go show the year the player contract take start and the year e end 
 
@@ -123,14 +123,14 @@ Sha after I don clean , separate, and do somekind join join I come end up with o
 |--------|-------|
 ![image](https://user-images.githubusercontent.com/99989624/224838470-25cd2741-d7bf-479b-8ff7-14d2917f498c.png)|![image](https://user-images.githubusercontent.com/99989624/224838770-df41bf1a-5391-4bdd-8a17-99c4a7da1cb5.png)
 
-If you look well the data type for my contract start and end date nor be date na ABC. This na because if I change am to date format , e go like show months and days and over sabi power query go dash all the rows first day and first month like this 1/1/2022 or 1/1/2020 even though nor be the right day or month be that, but na because of lack of more info . So when time for visualisation don reach , when person change the data type to date , na to use only the year drill down nor add day or month.
+If you look well the data type for my contract start and end date nor be date na ABC. This na because if I change am to date format , e go like show months and days and over sabi power query go dash all the rows first day and first month like this 1/1/2022 or 1/1/2020 throughout ,even though nor be the right day or month be that, well na because of lack of more info . So when time for visualisation don reach , when person change the data type to date , na to use only the year drill down nor add day or month.
 
 
 <div align="center">
     <h2>Positions</h2>
 </div>
  
-**Separate am or leave am :?** This column na for the wing when the players de normally play . Some sabi play like 2 to 3 wings and dem jam everything together for one row. I come reason am say to split am na waste of Memory space since another column when be e brother “best position “ still de . And that best position column make sense die to take use analyse our data , so like this na to delete the column “positions” . Make we leave only best position 
+**Separate am or leave am :?** This column na for the wing when the players de normally play . Some sabi play like 2 to 3 wings and dem jam everything together for one row. I come reason am say to split am na waste of Memory space since another column when be e brother “best position “ still de . And that best position column make sense die to take use analyse our data. So like this na to delete the column “positions” .,Make we leave only  the best position 
 
 | Before | After |
 |--------|-------|

@@ -39,5 +39,20 @@ After I load the data , the space too much for inside so to remove the spaces ,n
 ![image](https://user-images.githubusercontent.com/99989624/224610838-f6b78c4b-b204-42d9-b158-f7aeacb6cda8.png)| ![image](https://user-images.githubusercontent.com/99989624/224610689-763b528d-9eed-431a-8b7d-2d5a54abaa32.png)
 
 
-**1. Data Auditing**
+**1. Data Auditing** :
 this one mean say I use eagle eye take observe my data, make i for see all the dirty things when I need scrub well for my data. I see many columns when my broom of justice go touch ; name , longname , Age , OVA , POT , Club , contract , Positions , height , weight , Best position , Joined , Loan end date , value , wage , release clause , W/F , SM , IR , And hits .
+
+**2. Data enrichment** : 
+this one mean say any column when too lean because e dey lack nutrient we need give am vitamin boost make e for dey alright . I come reason and say the Age column still dey show their age for 2021 and we don enter 2023 . Na once I Nack +2 for all their age.
+But I nor delete the first age column , I still leave am say person fit choose which one e go use wether na the 2021 age or na this new 2023 age when I just package .
+
+<div align="center">
+    <h2>Age</h2>
+</div>
+
+
+| Before | After |
+|--------|-------|
+|![image](https://user-images.githubusercontent.com/99989624/224671691-bc17297f-d433-42b2-801b-2a5c614b0fff.png)|![image](https://user-images.githubusercontent.com/99989624/224671895-e15292ce-058d-4fa1-a691-7a36ed032e3d.png)|
+
+

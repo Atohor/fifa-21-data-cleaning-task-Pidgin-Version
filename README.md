@@ -56,3 +56,30 @@ But I nor delete the first age column , I still leave am say person fit choose w
 |![image](https://user-images.githubusercontent.com/99989624/224671691-bc17297f-d433-42b2-801b-2a5c614b0fff.png)|![image](https://user-images.githubusercontent.com/99989624/224671895-e15292ce-058d-4fa1-a691-7a36ed032e3d.png)|
 
 
+**3. Data Cleaning and Transformation** 
+All those dirty columns when I mention before so , Oya make we start to de wash them one by one 
+
+<div align="center">
+    <h2>Names</h2>
+</div>
+
+This two brothers when be Name and Longname column , I come separate the players name by how them take arrange (the oyibo word na to split by delimiter). I gats split them like 3 times and once you split any column , e don create new column be that . So some kind rows come de show empty but after I repackage everything na only two columns when I call first name and last name come remain . Some people when de answer 2 in 1 names like all those dem De Bruyne , Ter Stegan , Van Dijk .I still position dem well like that  
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224680924-00835e64-6273-4c6e-aab9-a472fe3cea3b.png)|![image](https://user-images.githubusercontent.com/99989624/224681183-81a31f33-425e-4105-a848-ebf7d3134ecc.png)
+
+
+Wahala never finish o , if you click the filter button , e get some kind names with wicked pronunciation when them nor get English letter for, all these kind names like Spanish names de normally carry tribal marks for head ( when oyibo de call Diacritic names ).
+
+And if we nor package them , when person one visualise the data now, you come say if your name start from A stand up, dem go sitdown , if your name start from B stand up , them go still sitdown oo till you reach Z sef .Na after Z them go come start to de stand up small small and this thing nor good for visualisation . 
+So I come use another column “player url “ take extract the clean version of the names without this tribal marks to take package am well.
+
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224684006-6287fa7c-6d31-408c-99bd-95125ad152d5.png)|![image](https://user-images.githubusercontent.com/99989624/224684358-ea94ad53-b786-43db-8d29-38e647689471.png)
+
+
+
+
+

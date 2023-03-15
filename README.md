@@ -211,7 +211,7 @@ Them never born the person when fit claim say e know everything for this data in
 
 If you still de run kititi, de run katata like chicken when dem cut e head ontop this challenge , nor run again , come meet me, I go help you make we package am together .
 
-Any day , any time , You fit holla @ your boy for twitter [@PidginAnalyst](https://twitter.com/Pidginanalyst) | Instagram  [@PidginAnalyst](https://Instagram.com/Pidginanalyst) 
+Any day , any time , You fit holla @ your boy ontop twitter [@PidginAnalyst](https://twitter.com/Pidginanalyst) | Instagram  [@PidginAnalyst](https://Instagram.com/Pidginanalyst) 
 
 
-#PS to speak or listen to pidgin English easy , to write am out hard small , but to come even fit read am well, understand-am well , That one na War oo . So if you really settle down read this thing from beginning to this ending , I carry hand give you ! NA YOU TRY PASS! i hail ooo !!!  
+#PS to speak or listen to pidgin English easy , to write am out hard small , but to come even fit read am well, understand-am well , That one na War oo . So if you really settle down read this whole thing from beginning to this ending , I carry hand give you ! NA YOU TRY PASS! i hail ooo !!!  

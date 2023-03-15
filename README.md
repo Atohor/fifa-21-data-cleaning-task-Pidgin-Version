@@ -63,7 +63,7 @@ All those dirty columns when I mention before so , Oya make we start to de wash 
     <h2>Names</h2>
 </div>
 
-This two brothers when be Name and Longname column , I come separate the players name by how them take arrange (the oyibo word na to split by delimiter). I gats split them like 3 times and once you split any column , e don create new column be that . So some kind rows come de show empty but after I repackage everything na only two columns when I call first name and last name come remain . Some people when de answer 2 in 1 names like all those dem De Bruyne , Ter Stegan , Van Dijk .I still position dem well like that  
+This two brothers when be Name and Longname column , I come separate the players name by how them take arrange (the oyibo word na to split by delimiter). I gats split them like 3 times and once you split any column , e don create new column be that . So some kind rows come de show empty but after I repackage everything, na only two columns when I call first name and last name come remain . Some people when de answer 2 in 1 names like all those dem De Bruyne , Ter Stegan , Van Dijk .I still position dem well like that  
 
 | Before | After |
 |--------|-------|

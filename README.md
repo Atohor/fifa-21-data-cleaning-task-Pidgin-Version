@@ -207,7 +207,8 @@ Day don dark ontop this cleaning matter but las las we don run am, we come still
 
 At first when I use corner eye look this challenge , e be like say water go pass garri o , but I draw my trouser up , gather mind , use ginger complete this #Datacleaningchallenge . Even though I don go far small for this data industry , this challenge don still open my eye well well ,to some kind things when every analyst need to learn. 
 
-Them never born the person when fit claim say e know everything for this data industry , so like this if you get one or two when fit help my career , or you use okpolor eye take see some things when my eagle eye nor see , abeg let me know . 
+Them never born the person when fit claim say e know everything for this data industry , so like this, if you get one or two when fit help my career , or you use okpolor eye take see some things when my eagle eye nor see , abeg let me know .
+
 If you still de run kititi, de run katata like chicken when dem cut e head ontop this challenge , nor run again , come meet me, I go help you make we package am together .
 
 Any day , any time , You fit holla @ your boy for twitter [@PidginAnalyst](https://twitter.com/Pidginanalyst) | Instagram  [@PidginAnalyst](https://Instagram.com/Pidginanalyst) 

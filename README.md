@@ -19,7 +19,7 @@ Omo The data sef nor be small data , e carry 77 columns and 18,980 rows on every
 
 Them still drop dictionary about this data when go give you more expo about the footballers incase some things de miss from your data or you nor too understand some kind stuff for the data 
 
-Many tools dey when person fit take tackle data cleaning .For me personally, Based on sability, I come choose Power Bi editor when de ontop power query to take battle this challenge
+Many tools dey when person fit take tackle data cleaning .For me personally, Based on sability, I come choose Power Query editor when de ontop power query to take battle this challenge
 
 ## Data Cleaning process
 ![image](https://user-images.githubusercontent.com/99989624/225212198-d3deb93a-14d6-4a70-936f-76c674bf8645.png)

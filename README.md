@@ -157,7 +157,7 @@ The other guys when de in centimetre carry “cm “ join body like this 170cm 
     <h2>Weight</h2>
 </div>
 
-My eagle eye tell me say like 60% of the players here them write their weight as lbs (this na another name for pounds but nor be the money £ pounds o, this na when some oyibo countries one talk about weight in pounds dem go write as lbs ) like this 70lbs . While the rest na Kilogram them take code am like this 60kg.
+My eagle eye tell me say like 60% of the players here them write their weight as lbs (this na another name for pounds but nor be the money £ pounds o, this na when some oyibo countries one talk about weight in pounds dem go write am as lbs ) like this 70lbs . While the rest na Kilogram them take code am like this 60kg.
 
 E choke ? . Me personally I decide say na lbs I want make everything de cause na them many pass . So I come split the column with "digit to non -digit function". then i use the normal conversion rate of 2.205 take times the kg guys to give me the lbs version, then round am up make the figures nor carry decimals.
 

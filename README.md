@@ -143,9 +143,9 @@ If you look well the data type for my contract start and end date nor be date na
     <h2>Height</h2>
 </div>
 
-Many players for here dem record their heights in centimetre (cm) , then some others na feet and inches them use . Like this 6’2” . At first, i reason say na to separate this thing ‘ “ comot then times the figure by 30.48 because that na be normal feet to cm conversion rate . But SeniorMan google say e nor correct like that , seniorMan google say thefeet na to times am with feet rate and the inches I need to times am separate with inches rate . 
+Many players for here dem record their heights in centimetre (cm) , then some others na feet and inches them use . Like this 6’2” . At first, i reason say na to separate this thing ‘ “ comot then times the figure by 30.48 because that na be normal feet to cm conversion rate . But SeniorMan google say e nor correct like that , seniorMan google say the feet na to times am with feet rate and the inches I need to times am separate with inches rate . 
 
-Who I be to follow SeniorMan google argue ? So after I split the columns I times the feet by 30.48 , I come times the inches by 2.54. Las las,  I come add everything together for one column. 
+Who I be to follow SeniorMan google argue ? So after I split the columns, I times the feet by 30.48 , I come times the inches by 2.54. Las las,  I come add everything together for one column. 
 The other guys when de in centimetre carry “cm “ join body like this 170cm So I come still drop the cm comot .Package everything well 
 
 | Before | After |

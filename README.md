@@ -15,7 +15,7 @@ Oyibo talk say person wen never fit clean d dirty wen dey for inside e house , h
 
 this now how I take jejely clean the FIFA 21 dataset when some big names for the data industry drop ontop twitter , make omomo analyst and egbon analyst take try their hands, wether you sabi work or you be jjc .Dem tag the challenge #Datacleaningchallenge.
 
-Omo The data sef nor be small data , e carry 77 columns and 18,980 rows on everything about many footballers for around 2021. The dataset dey where everybody go fit see am for [kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring) and the guy when run am  gather scrap the data from [sofifa](www.sofifa.com)
+Omo The data sef nor be small data , e carry 77 columns and 18,979 rows on everything about many footballers for around 2021. The dataset dey where everybody go fit see am for [kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring) and the guy when run am  gather scrap the data from [sofifa](www.sofifa.com)
 
 Them still drop dictionary about this data when go give you more expo about the footballers incase some things de miss from your data or you nor too understand some kind stuff for the data 
 
